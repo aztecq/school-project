@@ -1,0 +1,81 @@
+* {
+    background-color: rgb(77, 77, 77);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  
+  .container {
+    text-align: center;
+    width: 1890px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .content {
+    padding: 0px;
+    width: 900px;
+    min-height: 200px;
+    text-align: left;
+    margin-left: 30%;
+    color: white;
+    font-size: 17px;
+  }
+  
+  .contentB {
+    padding: 10px;
+    width: 900px;
+    min-height: 200px;
+    text-align: left;
+    margin-left: 30%;
+    color: white;
+    font-size: 17px;
+  }
+  
+  .contentC {
+    padding: 10px;
+    width: 900px;
+    min-height: 200px;
+    text-align: left;
+    margin-left: 30%;
+    color: white;
+    font-size: 17px;
+  }
+
+  .contentD {
+    padding: 10px;
+    width: 900px;
+    min-height: 200px;
+    text-align: left;
+    margin-left: 30%;
+    color: white;
+    font-size: 17px;
+  }
+
+  .contentE {
+    padding: 10px;
+    width: 900px;
+    min-height: 200px;
+    text-align: left;
+    margin-left: 30%;
+    color: white;
+    font-size: 17px;
+  }
+ 
+  h1 {
+    color: rgb(60, 221, 60);
+    font-size: 35px;
+  }
+ 
+  hr {
+    height: 2px;
+    width: 50%;
+    background-color: white;
+    border: none;
+  }
+  
+  a {
+    margin-top: 6%;
+    text-decoration: none;
+    color: white;
+  }
+  
